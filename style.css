@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url(MINIMAL.jpg) center center cover no-repeat fixed;
+    background-image: url("../images/DARKNESS.jpg");
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
